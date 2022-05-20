@@ -6,7 +6,7 @@
 | Project Topic | Resource Booking System |
 | Campus | Malabe |
 
-| Group Members | ID | Clases |
+| Group Members | Registration No | Clases |
 | --- | --- | --- |
 | | IT21259784 | Tools, Resources |
 | | IT21307812 | Materials, Vehicles |
