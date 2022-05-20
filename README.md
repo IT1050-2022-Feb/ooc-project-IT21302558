@@ -8,8 +8,8 @@
 
 | Group Members | Registration No | Clases |
 | --- | --- | --- |
-| | IT21259784 | Tools, Resources |
-| | IT21307812 | Materials, Vehicles |
-| | IT21300196 | Booking, Department |
-| | IT21293108 | Executive, Employee |
-| | IT21302558 | Report, Project |
+| Serasinghe D. A. Y. A | IT21259784 | Tools, Resources |
+| Vaffa M. A. M. A | IT21307812 | Materials, Vehicles |
+| Manathunga M. D. T. L | IT21300196 | Booking, Department |
+| Bogahawatta C. A | IT21293108 | Executive, Employee |
+| Mathuranage P. N. M | IT21302558 | Report, Project |
