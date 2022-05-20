@@ -2,7 +2,7 @@
 
 |     |     |
 | --- | --- |
-| Group NO  | MLB_WD_CSNE_13_03 |
+| Group No  | MLB_WD_CSNE_13_03 |
 | Project Topic | Resource Booking System |
 | Campus | Malabe |
 
